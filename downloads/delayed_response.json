@@ -1,0 +1,14 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept-Encoding": "gzip", 
+    "Host": "httpbin.org", 
+    "User-Agent": "Go-http-client/2.0", 
+    "X-Amzn-Trace-Id": "Root=1-68d69a85-235ec2b141d9bbce0629610e"
+  }, 
+  "origin": "37.229.142.41", 
+  "url": "https://httpbin.org/delay/2"
+}
